@@ -1,14 +1,16 @@
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
-*{
+* {
   margin: 0;
   padding: 0;
   font: inherit;
 }
 
-body{
+body {
   min-height: 100dvh;
   background-color: var(--clr-neutral-200);
   font-family: var(--ff-primary);
@@ -19,7 +21,7 @@ body{
   place-content: center;
 }
 
-img{
+img {
   max-width: 100%;
   display: block;
 }
@@ -32,4 +34,15 @@ input {
 button {
   cursor: pointer;
   border: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
 }
