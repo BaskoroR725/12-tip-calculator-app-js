@@ -1,0 +1,21 @@
+:root {
+
+  --clr-primary-400: hsl(172, 67%, 45%);
+
+
+  --clr-neutral-900: hsl(183, 100%, 15%); // Very Dark Cyan
+  --clr-neutral-500: hsl(186, 14%, 43%); // Dark Grayish Cyan
+  --clr-neutral-400: hsl(184, 14%, 56%); // Grayish Cyan
+  --clr-neutral-200: hsl(185, 41%, 84%); // Light Grayish Cyan
+  --clr-neutral-50:  hsl(189, 47%, 97%); // Very Light Grayish Cyan
+  --clr-white:       hsl(0, 100%, 100%);
+  --clr-error:       #e17052; 
+
+  // Typography
+  --ff-primary: 'Space Mono', monospace;
+  --fw-bold: 700;
+  
+  // Formula: clamp(min, preferred, max)
+  --fs-body: 1.5rem; // 24px default 
+  --fs-label: 1rem;  // 16px
+}
