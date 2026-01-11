@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-|        Desktop Version         |        Mobile Version         |         Active States         |
-| :----------------------------: | :---------------------------: | :---------------------------: |
-| ![](./screenshot/desktop.png) | ![](./screenshot/mobile.png) | ![](./screenshot/demo.png) |
+|        Desktop Version               |        Mobile Version              |       Active States              |
+| :---------------------------:        | :--------------------------:       | :------------------------:       |
+| ![desktop](./screenshot/desktop.png) | ![mobile](./screenshot/mobile.png) | ![active](./screenshot/demo.png) |
 
 ### Links
 
-- Solution URL: [Add your GitHub URL here]
-- Live Site URL: [Add your live site URL here (Vercel/Netlify)]
+- Solution URL: [https://github.com/BaskoroR725/12-tip-calculator-app-js.git]
+- Live Site URL: [https://baskoror725.github.io/12-tip-calculator-app-js/]
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 - CSS Custom Properties (Variables)
 - Flexbox and CSS Grid
 - Mobile-first workflow
-- [Sass/SCSS](https://sass-lang.com/) 
+- [Sass/SCSS](https://sass-lang.com/)
 - Modern JavaScript (ES6+) - State management and DOM manipulation
 
 ### What I learned
